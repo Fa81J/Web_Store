@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"h",
+				"h2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHP/about.php",
+		"/F/Web Store/project/footer.php",
+		"/F/Web Store/project/register.php",
+		"/F/Web Store/ecommerce-master/modules/register.html",
+		"/F/Web Store/ecommerce-master/New folder/register.php",
+		"/F/Web Store/index.html",
+		"/F/Web Store/assets/css/style.css",
+		"/F/Web Store/assets/js/script.js",
+		"/F/Web Store/ecommerce-master/css/bootstrap.css",
+		"/F/Web Store/ecommerce-master/styles/style.css",
+		"/F/Web Store/Ecommerce-app-h/style.css",
+		"/F/Web Store/script.js",
+		"/F/Web Store/style.css",
+		"/F/Web Store/app.js",
+		"/F/Web Store/Footcap/assets/css/style.css",
+		"/F/Web Store/app.js.js",
+		"/F/Web Store/style.css.css",
+		"/F/Web Store/index.html.html",
+		"/F/Web Store/3.js",
+		"/F/Web Store/2.css",
+		"/F/Web Store/1.html",
+		"/C/xampp/htdocs/PHP/task.php",
+		"/C/xampp/htdocs/PHP/15.php",
+		"/C/xampp/htdocs/PHP/login.php",
+		"/C/xampp/htdocs/PHP/fav.php.php",
+		"/C/xampp/htdocs/PHP/script.php",
+		"/C/xampp/htdocs/PHP/form.php",
+		"/C/Users/RTX/OneDrive/Desktop/New folder/main.css",
+		"/C/xampp/htdocs/PHP/index.php",
+		"/C/xampp/htdocs/PHP/chk.php",
+		"/C/xampp/htdocs/PHP/control.php",
+		"/C/xampp/htdocs/PHP/counter.php",
+		"/C/xampp/htdocs/PHP/cookies.php.php",
+		"/C/xampp/htdocs/PHP/logout.php",
+		"/C/xampp/htdocs/PHP/page5.php",
+		"/C/xampp/htdocs/PHP/page4.php",
+		"/C/xampp/htdocs/PHP/page3.php",
+		"/C/xampp/htdocs/PHP/page2.php",
+		"/C/xampp/htdocs/PHP/3.php",
+		"/F/Js inline/inline Js.html",
+		"/F/Js inline/script.js",
+		"/C/Users/RTX/OneDrive/Desktop/Js inline",
+		"/C/xampp/htdocs/PHP/4.php",
+		"/F/IMG/login.php",
+		"/F/IMG/hyhy.html",
+		"/C/xampp/htdocs/PHP/car.php",
+		"/F/IMG/html",
+		"/C/xampp/htdocs/PHP/1.php",
+		"/F/IMG/css",
+		"/C/xampp/htdocs/PHP/2.php",
+		"/C/xampp/htdocs/PHP/5.php",
+		"/F/hr/AUC HR Diploma.rar",
+		"/F/IMG/وو",
+		"/F/IMG/style.css",
+		"/F/IMG/ghghghgh",
+		"/F/IMG/style",
+		"/F/IMG/F.html",
+		"/F/GA-SITE/catttttt.html",
+		"/F/GA-SITE/index.html",
+		"/F/My_Project/gggggggg",
+		"/F/My_Project/login.html",
+		"/F/My_Project/body{",
+		"/F/My_Project/Style.CSS",
+		"/F/My_Project/login"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin_style.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\Web Store\\project\\css\\admin_style.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
