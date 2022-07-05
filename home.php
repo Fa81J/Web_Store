@@ -118,7 +118,8 @@ YOUR ORDER IS READY!!</p>
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p>We work to satisfy you
+Don't hesitate to contact us</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 
